@@ -318,21 +318,6 @@
 		"license": "Personal Use"
 	},
   {
-    "name": "Human Companion 25",
-    "url": "https://raw.githubusercontent.com/yogeshgosavi/FancyAnimals/main/Walls/HumanCompanion_25.jpg",
-    "category": "Human Companion",
-    "copyright": "Personal Use"
-  }, {
-    "name": "Human Companion 24",
-    "url": "https://raw.githubusercontent.com/yogeshgosavi/FancyAnimals/main/Walls/HumanCompanion_24.jpg",
-    "category": "Human Companion",
-    "copyright": "Personal Use"
-  }, {
-    "name": "Human Companion 23",
-    "url": "https://raw.githubusercontent.com/yogeshgosavi/FancyAnimals/main/Walls/HumanCompanion_23.jpg",
-    "category": "Human Companion",
-    "copyright": "Personal Use"
-  }, {
     "name": "Human Companion 22",
     "url": "https://raw.githubusercontent.com/yogeshgosavi/FancyAnimals/main/Walls/HumanCompanion_22.jpg",
     "category": "Human Companion",
@@ -377,6 +362,22 @@
   }, {
     "name": "Human Companion 14",
     "url": "https://raw.githubusercontent.com/yogeshgosavi/FancyAnimals/main/Walls/HumanCompanion_14.jpeg",
+    "category": "Human Companion",
+    "copyright": "Personal Use"
+  },
+  {
+    "name": "Human Companion 25",
+    "url": "https://raw.githubusercontent.com/yogeshgosavi/FancyAnimals/main/Walls/HumanCompanion_25.jpg",
+    "category": "Human Companion",
+    "copyright": "Personal Use"
+  }, {
+    "name": "Human Companion 24",
+    "url": "https://raw.githubusercontent.com/yogeshgosavi/FancyAnimals/main/Walls/HumanCompanion_24.jpg",
+    "category": "Human Companion",
+    "copyright": "Personal Use"
+  }, {
+    "name": "Human Companion 23",
+    "url": "https://raw.githubusercontent.com/yogeshgosavi/FancyAnimals/main/Walls/HumanCompanion_23.jpg",
     "category": "Human Companion",
     "copyright": "Personal Use"
   }, {
